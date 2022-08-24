@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "gsap": "^3.10.4",
-    "sass": "^1.52.1",
-    "vite": "^2.9.9",
-    "vite-plugin-pwa": "^0.12.0"
+    "gsap": "^3.11.0",
+    "sass": "^1.54.5",
+    "vite": "^3.0.9",
+    "vite-plugin-pwa": "^0.12.3"
   }
 }

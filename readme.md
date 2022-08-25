@@ -3,7 +3,7 @@
 For fast init static projects or Test Dev :
 
 - Support HMR, SCSS, GSAP, and PWA.
-- Work Well with Node V17.4.0.
+- Work Well with Node V18.7.0.
 
 
 ## How to Use
